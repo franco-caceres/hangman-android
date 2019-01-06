@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="button_connect">Connect</string>
+    <string name="hint_server_address">Enter server address</string>
+    <string name="hint_server_port">Enter server port</string>
+    <string name="label_score">Score:</string>
+    <string name="label_remaining_attempts">Remaining attempts:</string>
+    <string name="hint_guess">Enter letter or word to guess</string>
+    <string name="button_guess">Guess</string>
+    <string name="label_guessed_so_far">Guessed so far:</string>
+    <string name="button_keep_playing">Keep playing</string>
+    <string name="button_disconnect">Disconnect</string>
+    <string name="message_you_won">You guessed correctly! You won a point :)</string>
+    <string name="error_required">Required</string>
+    <string name="message_you_lost">You guessed incorrectly. You lost a point :(</string>
+    <string name="message_could_not_connect">Could not connect to server</string>
+    <string name="button_ok">OK</string>
+    <string name="message_server_disconnected">Server disconnected</string>
+</resources>
